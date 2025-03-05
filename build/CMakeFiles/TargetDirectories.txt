@@ -1,0 +1,3 @@
+/Users/shameerahmad/Desktop/City Landscape/build/CMakeFiles/city_landscape.dir
+/Users/shameerahmad/Desktop/City Landscape/build/CMakeFiles/edit_cache.dir
+/Users/shameerahmad/Desktop/City Landscape/build/CMakeFiles/rebuild_cache.dir
